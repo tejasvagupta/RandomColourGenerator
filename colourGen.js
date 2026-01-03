@@ -1,4 +1,4 @@
-let btn=document.querySelector("button")  // javascript
+let btn=document.querySelector("button")  //jfjfjjfjfjfjfjfj
 let h3=document.querySelector("h3");
 
 btn.addEventListener("click",function(){
